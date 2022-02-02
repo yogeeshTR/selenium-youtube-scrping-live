@@ -1,0 +1,26 @@
+{
+  "files": {
+    "scraper.py": [
+      {
+        "id": "63bd6b7b-1673-4b98-8dab-98d6061c5de4",
+        "line": 1,
+        "version": 907,
+        "index": 0
+      },
+      {
+        "id": "1d903588-d7af-4c86-a9a5-6d9fb66edd57",
+        "line": 46,
+        "version": 907,
+        "index": 1221
+      }
+    ],
+    "scratch.py": [
+      {
+        "id": "5576e6a3-8364-4b97-913f-94d3e1c9c971",
+        "line": 22,
+        "version": 13,
+        "index": 431
+      }
+    ]
+  }
+}
